@@ -1,0 +1,99 @@
+# HoneyNewsBG
+
+HoneyNewsBG is a news platform that provides the latest articles on various topics. The platform is designed to be visually appealing, user-friendly, and easy to navigate. It supports user authentication and different roles (e.g., Admin) for managing the content.
+
+## Features
+
+- User authentication (Login/Register)
+- Admin panel for managing articles
+- Responsive design
+- Attractive UI with background images and transparent containers
+- Latest news articles displayed with summaries and 'Read More' links
+
+## Tech Stack
+
+- ASP.NET Core MVC
+- Entity Framework Core
+- SQL Server
+- Bootstrap 4
+- Font Awesome
+
+## Screenshots
+
+![Screenshot](path/to/screenshot.png)
+
+## Getting Started
+
+Follow these instructions to set up the project on your local machine for development and testing purposes.
+
+### Prerequisites
+
+- [.NET Core SDK](https://dotnet.microsoft.com/download)
+- [SQL Server](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
+- [SQL Server Management Studio (SSMS)](https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms)
+
+### Installation
+
+1. **Clone the repository:**
+
+    ```sh
+    git clone https://github.com/yourusername/HoneyNewsBG.git
+    cd HoneyNewsBG
+    ```
+
+2. **Restore the .NET packages:**
+
+    ```sh
+    dotnet restore
+    ```
+
+3. **Set up the database:**
+
+    - Open SQL Server Management Studio (SSMS).
+    - Connect to your SQL Server instance.
+    - Open the `setup.sql` script located in the root directory of the project.
+    - Execute the script to create the database schema and populate initial data.
+
+4. **Update the connection string:**
+
+    - Open `appsettings.json`.
+    - Update the `ConnectionStrings:DefaultConnection` with your SQL Server connection details.
+
+    ```json
+    "ConnectionStrings": {
+        "DefaultConnection": "Server=your_server_name;Database=your_database_name;User Id=your_user_id;Password=your_password;"
+    }
+    ```
+
+5. **Run the application:**
+
+    ```sh
+    dotnet run
+    ```
+
+6. **Open your browser and navigate to:**
+
+    ```
+    http://localhost:5000
+    ```
+
+## Usage
+
+- Navigate to the home page to see the latest news articles.
+- Use the 'Admin Panel' to manage articles (available only for Admin users).
+- Click 'Read More' to view the full article.
+
+## Contributing
+
+Contributions are welcome! Please fork the repository and use a feature branch. Pull requests are warmly welcome.
+
+1. Fork the repository.
+2. Create your feature branch (`git checkout -b feature/fooBar`).
+3. Commit your changes (`git commit -am 'Add some fooBar'`).
+4. Push to the branch (`git push origin feature/fooBar`).
+5. Create a new Pull Request.
+
+## Contact
+
+Created by [Pepsit0](https://github.com/pepsit0) - feel free to contact me!
+
