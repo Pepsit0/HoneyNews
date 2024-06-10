@@ -1,0 +1,517 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\35908\\Desktop\\ProjectLogin\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1D465DB9-57ED-4AE2-868F-AFA7476C1E11}|ProjectLogin\\ProjectLogin.csproj|c:\\users\\35908\\desktop\\projectlogin\\projectlogin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D465DB9-57ED-4AE2-868F-AFA7476C1E11}|ProjectLogin\\ProjectLogin.csproj|solutionrelative:projectlogin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D465DB9-57ED-4AE2-868F-AFA7476C1E11}|ProjectLogin\\ProjectLogin.csproj|c:\\users\\35908\\desktop\\projectlogin\\projectlogin\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D465DB9-57ED-4AE2-868F-AFA7476C1E11}|ProjectLogin\\ProjectLogin.csproj|solutionrelative:projectlogin\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D465DB9-57ED-4AE2-868F-AFA7476C1E11}|ProjectLogin\\ProjectLogin.csproj|c:\\users\\35908\\desktop\\projectlogin\\projectlogin\\views\\admin\\adminpanel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D465DB9-57ED-4AE2-868F-AFA7476C1E11}|ProjectLogin\\ProjectLogin.csproj|solutionrelative:projectlogin\\views\\admin\\adminpanel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D465DB9-57ED-4AE2-868F-AFA7476C1E11}|ProjectLogin\\ProjectLogin.csproj|c:\\users\\35908\\desktop\\projectlogin\\projectlogin\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D465DB9-57ED-4AE2-868F-AFA7476C1E11}|ProjectLogin\\ProjectLogin.csproj|solutionrelative:projectlogin\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D465DB9-57ED-4AE2-868F-AFA7476C1E11}|ProjectLogin\\ProjectLogin.csproj|c:\\users\\35908\\desktop\\projectlogin\\projectlogin\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D465DB9-57ED-4AE2-868F-AFA7476C1E11}|ProjectLogin\\ProjectLogin.csproj|solutionrelative:projectlogin\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D465DB9-57ED-4AE2-868F-AFA7476C1E11}|ProjectLogin\\ProjectLogin.csproj|c:\\users\\35908\\desktop\\projectlogin\\projectlogin\\views\\admin\\editcomment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D465DB9-57ED-4AE2-868F-AFA7476C1E11}|ProjectLogin\\ProjectLogin.csproj|solutionrelative:projectlogin\\views\\admin\\editcomment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D465DB9-57ED-4AE2-868F-AFA7476C1E11}|ProjectLogin\\ProjectLogin.csproj|c:\\users\\35908\\desktop\\projectlogin\\projectlogin\\views\\admin\\edituser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D465DB9-57ED-4AE2-868F-AFA7476C1E11}|ProjectLogin\\ProjectLogin.csproj|solutionrelative:projectlogin\\views\\admin\\edituser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D465DB9-57ED-4AE2-868F-AFA7476C1E11}|ProjectLogin\\ProjectLogin.csproj|c:\\users\\35908\\desktop\\projectlogin\\projectlogin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D465DB9-57ED-4AE2-868F-AFA7476C1E11}|ProjectLogin\\ProjectLogin.csproj|solutionrelative:projectlogin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D465DB9-57ED-4AE2-868F-AFA7476C1E11}|ProjectLogin\\ProjectLogin.csproj|c:\\users\\35908\\desktop\\projectlogin\\projectlogin\\views\\admin\\createnews.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D465DB9-57ED-4AE2-868F-AFA7476C1E11}|ProjectLogin\\ProjectLogin.csproj|solutionrelative:projectlogin\\views\\admin\\createnews.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D465DB9-57ED-4AE2-868F-AFA7476C1E11}|ProjectLogin\\ProjectLogin.csproj|c:\\users\\35908\\desktop\\projectlogin\\projectlogin\\views\\admin\\deletecomment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D465DB9-57ED-4AE2-868F-AFA7476C1E11}|ProjectLogin\\ProjectLogin.csproj|solutionrelative:projectlogin\\views\\admin\\deletecomment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D465DB9-57ED-4AE2-868F-AFA7476C1E11}|ProjectLogin\\ProjectLogin.csproj|c:\\users\\35908\\desktop\\projectlogin\\projectlogin\\views\\admin\\deletenews.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D465DB9-57ED-4AE2-868F-AFA7476C1E11}|ProjectLogin\\ProjectLogin.csproj|solutionrelative:projectlogin\\views\\admin\\deletenews.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D465DB9-57ED-4AE2-868F-AFA7476C1E11}|ProjectLogin\\ProjectLogin.csproj|c:\\users\\35908\\desktop\\projectlogin\\projectlogin\\views\\admin\\editnews.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D465DB9-57ED-4AE2-868F-AFA7476C1E11}|ProjectLogin\\ProjectLogin.csproj|solutionrelative:projectlogin\\views\\admin\\editnews.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D465DB9-57ED-4AE2-868F-AFA7476C1E11}|ProjectLogin\\ProjectLogin.csproj|c:\\users\\35908\\desktop\\projectlogin\\projectlogin\\views\\admin\\deleteuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D465DB9-57ED-4AE2-868F-AFA7476C1E11}|ProjectLogin\\ProjectLogin.csproj|solutionrelative:projectlogin\\views\\admin\\deleteuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D465DB9-57ED-4AE2-868F-AFA7476C1E11}|ProjectLogin\\ProjectLogin.csproj|c:\\users\\35908\\desktop\\projectlogin\\projectlogin\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D465DB9-57ED-4AE2-868F-AFA7476C1E11}|ProjectLogin\\ProjectLogin.csproj|solutionrelative:projectlogin\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D465DB9-57ED-4AE2-868F-AFA7476C1E11}|ProjectLogin\\ProjectLogin.csproj|c:\\users\\35908\\desktop\\projectlogin\\projectlogin\\controllers\\newscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D465DB9-57ED-4AE2-868F-AFA7476C1E11}|ProjectLogin\\ProjectLogin.csproj|solutionrelative:projectlogin\\controllers\\newscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D465DB9-57ED-4AE2-868F-AFA7476C1E11}|ProjectLogin\\ProjectLogin.csproj|c:\\users\\35908\\desktop\\projectlogin\\projectlogin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D465DB9-57ED-4AE2-868F-AFA7476C1E11}|ProjectLogin\\ProjectLogin.csproj|solutionrelative:projectlogin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D465DB9-57ED-4AE2-868F-AFA7476C1E11}|ProjectLogin\\ProjectLogin.csproj|c:\\users\\35908\\desktop\\projectlogin\\projectlogin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D465DB9-57ED-4AE2-868F-AFA7476C1E11}|ProjectLogin\\ProjectLogin.csproj|solutionrelative:projectlogin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D465DB9-57ED-4AE2-868F-AFA7476C1E11}|ProjectLogin\\ProjectLogin.csproj|c:\\users\\35908\\desktop\\projectlogin\\projectlogin\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{1D465DB9-57ED-4AE2-868F-AFA7476C1E11}|ProjectLogin\\ProjectLogin.csproj|solutionrelative:projectlogin\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D465DB9-57ED-4AE2-868F-AFA7476C1E11}|ProjectLogin\\ProjectLogin.csproj|c:\\users\\35908\\desktop\\projectlogin\\projectlogin\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D465DB9-57ED-4AE2-868F-AFA7476C1E11}|ProjectLogin\\ProjectLogin.csproj|solutionrelative:projectlogin\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D465DB9-57ED-4AE2-868F-AFA7476C1E11}|ProjectLogin\\ProjectLogin.csproj|c:\\users\\35908\\desktop\\projectlogin\\projectlogin\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D465DB9-57ED-4AE2-868F-AFA7476C1E11}|ProjectLogin\\ProjectLogin.csproj|solutionrelative:projectlogin\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D465DB9-57ED-4AE2-868F-AFA7476C1E11}|ProjectLogin\\ProjectLogin.csproj|c:\\users\\35908\\desktop\\projectlogin\\projectlogin\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D465DB9-57ED-4AE2-868F-AFA7476C1E11}|ProjectLogin\\ProjectLogin.csproj|solutionrelative:projectlogin\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D465DB9-57ED-4AE2-868F-AFA7476C1E11}|ProjectLogin\\ProjectLogin.csproj|c:\\users\\35908\\desktop\\projectlogin\\projectlogin\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D465DB9-57ED-4AE2-868F-AFA7476C1E11}|ProjectLogin\\ProjectLogin.csproj|solutionrelative:projectlogin\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D465DB9-57ED-4AE2-868F-AFA7476C1E11}|ProjectLogin\\ProjectLogin.csproj|c:\\users\\35908\\desktop\\projectlogin\\projectlogin\\wwwroot\\images\\image.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{1D465DB9-57ED-4AE2-868F-AFA7476C1E11}|ProjectLogin\\ProjectLogin.csproj|solutionrelative:projectlogin\\wwwroot\\images\\image.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D465DB9-57ED-4AE2-868F-AFA7476C1E11}|ProjectLogin\\ProjectLogin.csproj|c:\\users\\35908\\desktop\\projectlogin\\projectlogin\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1D465DB9-57ED-4AE2-868F-AFA7476C1E11}|ProjectLogin\\ProjectLogin.csproj|solutionrelative:projectlogin\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D465DB9-57ED-4AE2-868F-AFA7476C1E11}|ProjectLogin\\ProjectLogin.csproj|c:\\users\\35908\\desktop\\projectlogin\\projectlogin\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D465DB9-57ED-4AE2-868F-AFA7476C1E11}|ProjectLogin\\ProjectLogin.csproj|solutionrelative:projectlogin\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D465DB9-57ED-4AE2-868F-AFA7476C1E11}|ProjectLogin\\ProjectLogin.csproj|c:\\users\\35908\\desktop\\projectlogin\\projectlogin\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1D465DB9-57ED-4AE2-868F-AFA7476C1E11}|ProjectLogin\\ProjectLogin.csproj|solutionrelative:projectlogin\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D465DB9-57ED-4AE2-868F-AFA7476C1E11}|ProjectLogin\\ProjectLogin.csproj|c:\\users\\35908\\desktop\\projectlogin\\projectlogin\\database.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1D465DB9-57ED-4AE2-868F-AFA7476C1E11}|ProjectLogin\\ProjectLogin.csproj|solutionrelative:projectlogin\\database.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D465DB9-57ED-4AE2-868F-AFA7476C1E11}|ProjectLogin\\ProjectLogin.csproj|c:\\users\\35908\\desktop\\projectlogin\\projectlogin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D465DB9-57ED-4AE2-868F-AFA7476C1E11}|ProjectLogin\\ProjectLogin.csproj|solutionrelative:projectlogin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D465DB9-57ED-4AE2-868F-AFA7476C1E11}|ProjectLogin\\ProjectLogin.csproj|c:\\users\\35908\\desktop\\projectlogin\\projectlogin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D465DB9-57ED-4AE2-868F-AFA7476C1E11}|ProjectLogin\\ProjectLogin.csproj|solutionrelative:projectlogin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D465DB9-57ED-4AE2-868F-AFA7476C1E11}|ProjectLogin\\ProjectLogin.csproj|c:\\users\\35908\\desktop\\projectlogin\\projectlogin\\wwwroot\\database\\database.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1D465DB9-57ED-4AE2-868F-AFA7476C1E11}|ProjectLogin\\ProjectLogin.csproj|solutionrelative:projectlogin\\wwwroot\\database\\database.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EditUser.cshtml",
+              "DocumentMoniker": "C:\\Users\\35908\\Desktop\\ProjectLogin\\ProjectLogin\\Views\\Admin\\EditUser.cshtml",
+              "RelativeDocumentMoniker": "ProjectLogin\\Views\\Admin\\EditUser.cshtml",
+              "ToolTip": "C:\\Users\\35908\\Desktop\\ProjectLogin\\ProjectLogin\\Views\\Admin\\EditUser.cshtml",
+              "RelativeToolTip": "ProjectLogin\\Views\\Admin\\EditUser.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAUwBQAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T13:30:40.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EditComment.cshtml",
+              "DocumentMoniker": "C:\\Users\\35908\\Desktop\\ProjectLogin\\ProjectLogin\\Views\\Admin\\EditComment.cshtml",
+              "RelativeDocumentMoniker": "ProjectLogin\\Views\\Admin\\EditComment.cshtml",
+              "ToolTip": "C:\\Users\\35908\\Desktop\\ProjectLogin\\ProjectLogin\\Views\\Admin\\EditComment.cshtml",
+              "RelativeToolTip": "ProjectLogin\\Views\\Admin\\EditComment.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T13:34:40.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\35908\\Desktop\\ProjectLogin\\ProjectLogin\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ProjectLogin\\Models\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\35908\\Desktop\\ProjectLogin\\ProjectLogin\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ProjectLogin\\Models\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T07:53:35.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\35908\\Desktop\\ProjectLogin\\ProjectLogin\\Models\\User.cs",
+              "RelativeDocumentMoniker": "ProjectLogin\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\35908\\Desktop\\ProjectLogin\\ProjectLogin\\Models\\User.cs",
+              "RelativeToolTip": "ProjectLogin\\Models\\User.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAQwEUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T21:06:32.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdminPanel.cshtml",
+              "DocumentMoniker": "C:\\Users\\35908\\Desktop\\ProjectLogin\\ProjectLogin\\Views\\Admin\\AdminPanel.cshtml",
+              "RelativeDocumentMoniker": "ProjectLogin\\Views\\Admin\\AdminPanel.cshtml",
+              "ToolTip": "C:\\Users\\35908\\Desktop\\ProjectLogin\\ProjectLogin\\Views\\Admin\\AdminPanel.cshtml",
+              "RelativeToolTip": "ProjectLogin\\Views\\Admin\\AdminPanel.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAC8AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-13T05:54:30.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\35908\\Desktop\\ProjectLogin\\ProjectLogin\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "ProjectLogin\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\35908\\Desktop\\ProjectLogin\\ProjectLogin\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "ProjectLogin\\Controllers\\AdminController.cs",
+              "ViewState": "AQIAAPEAAAAAAAAAAAAqwAYAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T12:45:15.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\35908\\Desktop\\ProjectLogin\\ProjectLogin\\Program.cs",
+              "RelativeDocumentMoniker": "ProjectLogin\\Program.cs",
+              "ToolTip": "C:\\Users\\35908\\Desktop\\ProjectLogin\\ProjectLogin\\Program.cs",
+              "RelativeToolTip": "ProjectLogin\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T21:30:07.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\35908\\Desktop\\ProjectLogin\\ProjectLogin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ProjectLogin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\35908\\Desktop\\ProjectLogin\\ProjectLogin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ProjectLogin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAABYAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-01T14:07:20.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CreateNews.cshtml",
+              "DocumentMoniker": "C:\\Users\\35908\\Desktop\\ProjectLogin\\ProjectLogin\\Views\\Admin\\CreateNews.cshtml",
+              "RelativeDocumentMoniker": "ProjectLogin\\Views\\Admin\\CreateNews.cshtml",
+              "ToolTip": "C:\\Users\\35908\\Desktop\\ProjectLogin\\ProjectLogin\\Views\\Admin\\CreateNews.cshtml",
+              "RelativeToolTip": "ProjectLogin\\Views\\Admin\\CreateNews.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB4AAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T13:29:51.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DeleteComment.cshtml",
+              "DocumentMoniker": "C:\\Users\\35908\\Desktop\\ProjectLogin\\ProjectLogin\\Views\\Admin\\DeleteComment.cshtml",
+              "RelativeDocumentMoniker": "ProjectLogin\\Views\\Admin\\DeleteComment.cshtml",
+              "ToolTip": "C:\\Users\\35908\\Desktop\\ProjectLogin\\ProjectLogin\\Views\\Admin\\DeleteComment.cshtml",
+              "RelativeToolTip": "ProjectLogin\\Views\\Admin\\DeleteComment.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T13:35:05.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DeleteNews.cshtml",
+              "DocumentMoniker": "C:\\Users\\35908\\Desktop\\ProjectLogin\\ProjectLogin\\Views\\Admin\\DeleteNews.cshtml",
+              "RelativeDocumentMoniker": "ProjectLogin\\Views\\Admin\\DeleteNews.cshtml",
+              "ToolTip": "C:\\Users\\35908\\Desktop\\ProjectLogin\\ProjectLogin\\Views\\Admin\\DeleteNews.cshtml",
+              "RelativeToolTip": "ProjectLogin\\Views\\Admin\\DeleteNews.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAkwCcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T13:30:27.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EditNews.cshtml",
+              "DocumentMoniker": "C:\\Users\\35908\\Desktop\\ProjectLogin\\ProjectLogin\\Views\\Admin\\EditNews.cshtml",
+              "RelativeDocumentMoniker": "ProjectLogin\\Views\\Admin\\EditNews.cshtml",
+              "ToolTip": "C:\\Users\\35908\\Desktop\\ProjectLogin\\ProjectLogin\\Views\\Admin\\EditNews.cshtml",
+              "RelativeToolTip": "ProjectLogin\\Views\\Admin\\EditNews.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T13:30:13.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DeleteUser.cshtml",
+              "DocumentMoniker": "C:\\Users\\35908\\Desktop\\ProjectLogin\\ProjectLogin\\Views\\Admin\\DeleteUser.cshtml",
+              "RelativeDocumentMoniker": "ProjectLogin\\Views\\Admin\\DeleteUser.cshtml",
+              "ToolTip": "C:\\Users\\35908\\Desktop\\ProjectLogin\\ProjectLogin\\Views\\Admin\\DeleteUser.cshtml",
+              "RelativeToolTip": "ProjectLogin\\Views\\Admin\\DeleteUser.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAUwBcAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T13:31:23.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\35908\\Desktop\\ProjectLogin\\ProjectLogin\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "ProjectLogin\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\35908\\Desktop\\ProjectLogin\\ProjectLogin\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "ProjectLogin\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAowGIAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T21:08:36.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "NewsController.cs",
+              "DocumentMoniker": "C:\\Users\\35908\\Desktop\\ProjectLogin\\ProjectLogin\\Controllers\\NewsController.cs",
+              "RelativeDocumentMoniker": "ProjectLogin\\Controllers\\NewsController.cs",
+              "ToolTip": "C:\\Users\\35908\\Desktop\\ProjectLogin\\ProjectLogin\\Controllers\\NewsController.cs",
+              "RelativeToolTip": "ProjectLogin\\Controllers\\NewsController.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAQwC0AAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T11:01:48.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\35908\\Desktop\\ProjectLogin\\ProjectLogin\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ProjectLogin\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\35908\\Desktop\\ProjectLogin\\ProjectLogin\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ProjectLogin\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAgwDgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T21:15:53.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\35908\\Desktop\\ProjectLogin\\ProjectLogin\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProjectLogin\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\35908\\Desktop\\ProjectLogin\\ProjectLogin\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ProjectLogin\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-27T21:10:47.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\35908\\Desktop\\ProjectLogin\\ProjectLogin\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "ProjectLogin\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\35908\\Desktop\\ProjectLogin\\ProjectLogin\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "ProjectLogin\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD0AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-08T14:18:18.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\35908\\Desktop\\ProjectLogin\\ProjectLogin\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "ProjectLogin\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\35908\\Desktop\\ProjectLogin\\ProjectLogin\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "ProjectLogin\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-06T12:07:33.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\35908\\Desktop\\ProjectLogin\\ProjectLogin\\Views\\Home\\Details.cshtml",
+              "RelativeDocumentMoniker": "ProjectLogin\\Views\\Home\\Details.cshtml",
+              "ToolTip": "C:\\Users\\35908\\Desktop\\ProjectLogin\\ProjectLogin\\Views\\Home\\Details.cshtml",
+              "RelativeToolTip": "ProjectLogin\\Views\\Home\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T08:09:38.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\35908\\Desktop\\ProjectLogin\\ProjectLogin\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "ProjectLogin\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\35908\\Desktop\\ProjectLogin\\ProjectLogin\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "ProjectLogin\\Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-13T08:49:49.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\35908\\Desktop\\ProjectLogin\\ProjectLogin\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "ProjectLogin\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\35908\\Desktop\\ProjectLogin\\ProjectLogin\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "ProjectLogin\\Views\\Account\\Register.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T05:37:13.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "image.jpg",
+              "DocumentMoniker": "C:\\Users\\35908\\Desktop\\ProjectLogin\\ProjectLogin\\wwwroot\\images\\image.jpg",
+              "RelativeDocumentMoniker": "ProjectLogin\\wwwroot\\images\\image.jpg",
+              "ToolTip": "C:\\Users\\35908\\Desktop\\ProjectLogin\\ProjectLogin\\wwwroot\\images\\image.jpg",
+              "RelativeToolTip": "ProjectLogin\\wwwroot\\images\\image.jpg",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-06-09T13:49:34.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\35908\\Desktop\\ProjectLogin\\ProjectLogin\\appsettings.json",
+              "RelativeDocumentMoniker": "ProjectLogin\\appsettings.json",
+              "ToolTip": "C:\\Users\\35908\\Desktop\\ProjectLogin\\ProjectLogin\\appsettings.json",
+              "RelativeToolTip": "ProjectLogin\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-28T07:58:32.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\35908\\Desktop\\ProjectLogin\\ProjectLogin\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "ProjectLogin\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\35908\\Desktop\\ProjectLogin\\ProjectLogin\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "ProjectLogin\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T13:04:05.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\35908\\Desktop\\ProjectLogin\\ProjectLogin\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ProjectLogin\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\35908\\Desktop\\ProjectLogin\\ProjectLogin\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ProjectLogin\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAsAAAAAAAAAAABRwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-28T13:01:23.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "database.json",
+              "DocumentMoniker": "C:\\Users\\35908\\Desktop\\ProjectLogin\\ProjectLogin\\database.json",
+              "RelativeDocumentMoniker": "ProjectLogin\\database.json",
+              "ToolTip": "C:\\Users\\35908\\Desktop\\ProjectLogin\\ProjectLogin\\database.json",
+              "RelativeToolTip": "ProjectLogin\\database.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-01T13:11:32.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\35908\\Desktop\\ProjectLogin\\ProjectLogin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "ProjectLogin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\35908\\Desktop\\ProjectLogin\\ProjectLogin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "ProjectLogin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-01T12:48:51.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\35908\\Desktop\\ProjectLogin\\ProjectLogin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "ProjectLogin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\35908\\Desktop\\ProjectLogin\\ProjectLogin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "ProjectLogin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-01T12:48:42.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "database.json",
+              "DocumentMoniker": "C:\\Users\\35908\\Desktop\\ProjectLogin\\ProjectLogin\\wwwroot\\database\\database.json",
+              "RelativeDocumentMoniker": "ProjectLogin\\wwwroot\\database\\database.json",
+              "ToolTip": "C:\\Users\\35908\\Desktop\\ProjectLogin\\ProjectLogin\\wwwroot\\database\\database.json",
+              "RelativeToolTip": "ProjectLogin\\wwwroot\\database\\database.json",
+              "ViewState": "AQIAAF4AAAAAAAAAAGBnwAEAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-01T11:54:25.693Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

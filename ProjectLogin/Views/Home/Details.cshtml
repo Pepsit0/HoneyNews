@@ -1,0 +1,37 @@
+﻿@model NewsArticle
+<div class="container">
+
+<h2>@Model.Title</h2>
+<p>@Model.Content</p>
+<p>Publication Date: @Model.PublicationDate.ToShortDateString()</p>
+    <div class="comments">
+        <h3>Comments</h3>
+        @foreach (var comment in Model.Comments)
+{
+    <div>
+        <p>@comment.Content</p>
+        <p>Comment Date: @comment.CommentDate.ToShortDateString()</p>
+        <p>Author: @comment.Author</p>
+        <hr />
+    </div>
+}
+
+@if (User.Identity.IsAuthenticated)
+{
+    <h3>Add a Comment</h3>
+    <form asp-controller="News" asp-action="AddComment" method="post">
+        <input type="hidden" name="id" value="@Model.Id" />
+        <div class="form-group">
+            <label for="Content">Comment:</label>
+            <textarea class="form-control" id="Content" name="content" rows="3"></textarea>
+        </div>
+        <button type="submit" class="btn btn-primary">Submit</button>
+    </form>
+
+}
+else
+{
+    <p><a asp-controller="Account" asp-action="Login">Log in</a> to add a comment.</p>
+}
+</div>
+</div>

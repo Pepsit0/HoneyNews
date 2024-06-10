@@ -1,0 +1,82 @@
+﻿@model AdminPanelViewModel
+<div class="container">
+<h2>Admin Panel</h2>
+
+<h3>News Articles</h3>
+<a href="@Url.Action("CreateNews", "Admin")" class="btn btn-primary">Create New Article</a>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Title</th>
+            <th>Publication Date</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var article in Model.NewsArticles)
+        {
+            <tr>
+                <td>@article.Title</td>
+                <td>@article.PublicationDate.ToShortDateString()</td>
+                <td>
+                    <button class="btn btn-info" onclick="window.location.href='@Url.Action("EditNews", "Admin", new { id = article.Id })'">Edit</button>
+                    <button class="btn btn-danger" onclick="window.location.href='@Url.Action("DeleteNews", "Admin", new { id = article.Id })'">Delete</button>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<h3>Users</h3>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Username</th>
+            <th>Role</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var user in Model.Users)
+        {
+            <tr>
+                <td>@user.Username</td>
+                <td>@(user.IsAdmin ? "Admin" : "User")</td>
+                <td>
+                    <button class="btn btn-info" onclick="window.location.href='@Url.Action("EditUser", "Admin", new { id = user.Id })'">Edit</button>
+                    @if (!user.IsAdmin)
+                    {
+                        <button class="btn btn-danger" onclick="window.location.href='@Url.Action("DeleteUser", "Admin", new { id = user.Id })'">Delete</button>
+                    }
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<h3>Comments</h3>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Content</th>
+            <th>Comment Date</th>
+            <th>Author</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var comment in Model.Comments)
+        {
+            <tr>
+                <td>@comment.Content</td>
+                <td>@comment.CommentDate.ToShortDateString()</td>
+                <td>@comment.Author</td>
+                <td>
+                    <button class="btn btn-info" onclick="window.location.href='@Url.Action("EditComment", "Admin", new { id = comment.Id })'">Edit</button>
+                    <button class="btn btn-danger" onclick="window.location.href='@Url.Action("DeleteComment", "Admin", new { id = comment.Id })'">Delete</button>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+</div>

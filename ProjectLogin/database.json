@@ -1,0 +1,20 @@
+w[
+  {
+    "UserId": 0,
+    "Username": "asdasd",
+    "Password": "asdasd",
+    "IsAdmin": false
+  },
+  {
+    "UserId": 0,
+    "Username": "ASD",
+    "Password": "ASD",
+    "IsAdmin": false
+  },
+  {
+    "UserId": 0,
+    "Username": "asdm",
+    "Password": "asd",
+    "IsAdmin": false
+  }
+]
